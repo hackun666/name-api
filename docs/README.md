@@ -1,7 +1,7 @@
 ---
 home: true
 title: 国学起名
-heroImage: https://vuejs.press/images/hero.png
+heroImage: https://api.aihack.club/logo.svg
 actions:
   - text: 快速开始
     link: /get-started.html

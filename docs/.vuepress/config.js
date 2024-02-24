@@ -9,7 +9,7 @@ export default defineUserConfig({
   description: '传承国学文化，为您定制贴心好名。',
 
   theme: defaultTheme({
-    logo: 'https://vuejs.press/images/hero.png',
+    logo: 'https://api.aihack.club/logo.svg',
 
     navbar: ['/', '/get-started'],
   }),
