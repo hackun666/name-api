@@ -7,9 +7,9 @@ actions:
     link: /get-started.html
     type: primary
 
-  # - text: 演示网站
-  #   link: https://vuejs.press/guide/introduction.html
-  #   type: secondary
+  - text: 演示网站
+    link: https://api.aihack.club/demo.html
+    type: secondary
 
 features:
   - title: 专业起名

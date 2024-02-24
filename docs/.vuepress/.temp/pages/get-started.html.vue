@@ -35,7 +35,7 @@
 <td style="text-align:center">是</td>
 <td style="text-align:center">string</td>
 <td style="text-align:center">1</td>
-<td style="text-align:center">性别 1男；0女</td>
+<td style="text-align:center">性别 1男；2女</td>
 </tr>
 <tr>
 <td style="text-align:center">date</td>
