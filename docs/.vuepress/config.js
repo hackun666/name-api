@@ -11,7 +11,14 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: 'https://api.aihack.club/logo.svg',
 
-    navbar: ['/', '/get-started'],
+    navbar: [
+      '/',
+      '/get-started',
+      {
+        text: '本站同款服务器',
+        link: 'https://app.cloudcone.com/?ref=10317',
+      },
+    ],
   }),
 
   bundler: webpackBundler(),
