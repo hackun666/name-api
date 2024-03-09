@@ -18,6 +18,10 @@ export default defineUserConfig({
         text: '本站同款服务器',
         link: 'https://app.cloudcone.com/?ref=10317',
       },
+      {
+        text: '百度Comate',
+        link: 'https://comate.baidu.com/?inviteCode=ojhvu14q',
+      },
     ],
   }),
 
