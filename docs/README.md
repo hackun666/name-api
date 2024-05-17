@@ -1,14 +1,14 @@
 ---
 home: true
 title: 国学起名
-heroImage: https://api.aihack.club/logo.svg
+heroImage: https://name.one-api.club/logo.svg
 actions:
   - text: 快速开始
     link: /get-started.html
     type: primary
 
   - text: 演示网站
-    link: https://api.aihack.club/demo.html
+    link: https://name.one-api.club/demo.html
     type: secondary
 
 features:

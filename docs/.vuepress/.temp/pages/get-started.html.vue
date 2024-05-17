@@ -1,7 +1,7 @@
 <template><div><h1 id="快速开始" tabindex="-1"><a class="header-anchor" href="#快速开始"><span>快速开始</span></a></h1>
 <p>当前接口仅限个人起名时参考使用，所有数据均来源于网络收集，非网站原创。</p>
 <h2 id="接口地址" tabindex="-1"><a class="header-anchor" href="#接口地址"><span>接口地址</span></a></h2>
-<p>请求地址：<code v-pre>https://api.aihack.club/app/name/create</code></p>
+<p>请求地址：<code v-pre>https://name.one-api.club/app/name/create</code></p>
 <p>请求方式：<code v-pre>POST</code></p>
 <p>返回格式：<code v-pre>JSON</code></p>
 <h2 id="请求参数" tabindex="-1"><a class="header-anchor" href="#请求参数"><span>请求参数</span></a></h2>

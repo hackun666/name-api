@@ -4,7 +4,7 @@
 
 ## 接口地址
 
-请求地址：`https://api.aihack.club/app/name/create`
+请求地址：`https://name.one-api.club/app/name/create`
 
 请求方式：`POST`
 
