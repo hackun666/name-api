@@ -1,11 +1,16 @@
 ---
 home: true
-title: 国学起名
+title: 文档首页
 heroImage: https://name.one-api.club/logo.svg
 actions:
-  - text: 快速开始
+  - text: 国学起名
     link: /get-started.html
     type: primary
+    
+  - text: 名字解析
+    link: /name-meaning.html
+    type: primary
+
 
   - text: 演示网站
     link: https://name.one-api.club/demo.html

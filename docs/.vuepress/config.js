@@ -14,13 +14,14 @@ export default defineUserConfig({
     navbar: [
       '/',
       '/get-started',
+      '/name-meaning',
       {
         text: '演示网站',
         link: 'https://name.one-api.club/demo.html',
       },
       {
-        text: '百度AI代码助手',
-        link: 'https://comate.baidu.com/?inviteCode=ojhvu14q',
+        text: '免费领取文心快码VIP',
+        link: 'https://comate.baidu.com/zh/vip-claim?inviteCode=pnn11cfd',
       },
       {
         text: '本站同款服务器',
