@@ -264,12 +264,9 @@
 
 注意，测试密钥有请求频率限制，点击下方链接可获取正式api_key.
 
-[200次密钥链接][1]  [1000次密钥链接][2]  
+[密钥购买链接][1]  
 
-
-[1]: http://shop.51fkba.com/details/AECE8C94
-[2]: http://shop.51fkba.com/details/794263E5
-
+[1]: https://51fkba.com/shop/O7KB3JFG
 
 备用支付方式
 
