@@ -272,11 +272,13 @@
 <h2 id="获取密钥" tabindex="-1"><a class="header-anchor" href="#获取密钥"><span>获取密钥</span></a></h2>
 <p>本接口仅支持通过密钥 <code v-pre>api_key</code>校验权限，按照请求次数扣除额度</p>
 <p>测试密钥： <code v-pre>ZHRB-4WVK-51HS</code></p>
-<p>注意，测试密钥有请求频率限制，点击下方链接可获取正式api_key.</p>
-<p><a href="https://51fkba.com/shop/O7KB3JFG" target="_blank" rel="noopener noreferrer">密钥购买链接<ExternalLinkIcon/></a></p>
-<p>备用支付方式</p>
+<p>注意，测试密钥有请求频率限制，扫码支付后可获取正式api_key.</p>
+<!-- [密钥购买链接][1]  
+[1]: https://51fkba.com/shop/O7KB3JFG
+备用支付方式 -->
 <img src="https://bydci.oss-cn-beijing.aliyuncs.com/2024/11/4/oss524d35f7-7380-81f0-773f-5104689c1883.jpg" width="200px">
 <p>支付时请<strong>备注您的邮箱地址</strong> 密钥将于付款后1小时内发送到邮箱</p>
+<p>问题咨询&amp;商务合作联系 <a href="tencent://message/?Menu=yes&amp;uin=290805404">QQ290805404</a></p>
 </div></template>
 
 

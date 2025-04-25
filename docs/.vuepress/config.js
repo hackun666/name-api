@@ -27,6 +27,10 @@ export default defineUserConfig({
         text: '本站同款服务器',
         link: 'https://app.cloudcone.com/?ref=10317',
       },
+      {
+        text: '不限速流量卡',
+        link: 'https://h5.lot-ml.com/ProductEn/Index/7677aa622a122dd3',
+      },
     ],
   }),
 
